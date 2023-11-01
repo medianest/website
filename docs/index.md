@@ -1,3 +1,3 @@
 # Welcome to MediaNest
 
-Coming Soon.
+More info on this project is coming soon.
